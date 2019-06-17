@@ -1,0 +1,7 @@
+files	group	description
+Col_WT_R1.txt	control	control day 1
+Col_WT_R2.txt	control	control day 2
+Col_WT_R3.txt	control	control day 3
+coi1_R1.txt	treated	treated day 1
+coi1_R2.txt	treated	treated day 2
+coi1_R3.txt	treated	treated day 3
