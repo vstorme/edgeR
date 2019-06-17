@@ -1,0 +1,7 @@
+files	group	description
+24D_R1.txt	control	control day 1
+24D_R2.txt	control	control day 2
+24D_R3.txt	control	control day 3
+DMSO_R1.txt	treated	treated day 1
+DMSO_R2.txt	treated	treated day 2
+DMSO_R3.txt	treated	treated day 3
